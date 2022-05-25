@@ -1,0 +1,64 @@
+.navBar{
+    background-color: green;
+    /* position:absolute; */
+    height: 80px;
+    width: 100%;
+    
+}
+ul li{
+    list-style: none;
+   
+}
+.listOne{
+    display: flex;
+    margin: 25px;
+    justify-content: flex-end;
+}
+li{
+    margin: 25px;
+   
+}
+.content-blog{
+    width: 100%;
+    height: 700px;
+    background-color: antiquewhite;
+   display: flex;
+   flex-direction: row;
+
+}
+.post-blog{
+    width: 60%;
+    margin-left: 60px;
+    
+    
+}
+.side-bar{
+    /* background-color: blue; */
+    width: 40%;
+
+}
+.linebar{
+    height: 2px;
+    position: absolute;
+    width: 300px;
+    background-color: black;
+}
+.linebar1{
+    height: 2px;
+    position: absolute;
+    width: 300px;
+    background-color: rgb(196, 186, 186);
+}
+.twitter{
+    width: 70%;
+}
+.facebook{
+    margin-top: 15px;
+    width: 70%;
+  
+}
+.instagram{
+    margin-top: 15px;
+    width: 70%;
+  
+}
